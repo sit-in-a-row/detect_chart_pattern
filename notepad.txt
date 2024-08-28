@@ -1,0 +1,1 @@
+Chart Pattern Dataset from https://www.kaggle.com/datasets/suluharif/crypto-price-chart-patterns
