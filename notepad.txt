@@ -1,1 +1,20 @@
 Chart Pattern Dataset from https://www.kaggle.com/datasets/suluharif/crypto-price-chart-patterns
+
+Pattern Code
+============
+ATr: Ascending_Triangle
+DTr: Descending_Triangle
+STr: Symmetrical_Triangle
+
+DB: Double_Bottom
+DT: Double_Top
+FW: Falling_Wedge
+RW: Rising_Wedge
+
+Ascending_Triangle
+Descending_Triangle
+Symmetrical_Triangle
+Double_Bottom
+Double_Top
+Falling_Wedge
+Rising_Wedge
